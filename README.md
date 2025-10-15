@@ -5,13 +5,15 @@
 ![ADEPT Framework](https://img.shields.io/badge/ADEPT-Adaptive_Expansion_%26_Decoupled_Tuning-blue?logo=github)
 ![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)
 ![Parameters](https://img.shields.io/badge/Trainable_Params-15%25-lightgrey)
-![Speed](https://img.shields.io/badge/Training_Time-%3C50%25-faster-orange)
+![Speed](https://img.shields.io/badge/Training_Time-50%25faster-orange)
 
 ---
 
 ## 🌈 What is ADEPT?
 
 **ADEPT** (**A**daptive **E**xpansion and **D**ynamic **D**ecoupled Tuning for continual **P**re**T**raining) is a novel two-stage framework that rethinks how we adapt large language models (LLMs) to new domains—**without catastrophic forgetting** and **without full-parameter retraining**.
+
+![ADEPT Overview](overview.png)
 
 While traditional continual pretraining (CPT) struggles with:
 - 🧠 **Catastrophic forgetting** of general knowledge  
