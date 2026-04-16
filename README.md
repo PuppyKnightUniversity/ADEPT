@@ -1,4 +1,4 @@
-# 🚀 ADEPT: Adaptive Expansion & Dynamic Decoupled Tuning for Efficient Continual Pretraining
+# 🚀 ICLR2026(8 6 6 4) Accepted Paper: ADEPT: Adaptive Expansion & Dynamic Decoupled Tuning for Efficient Continual Pretraining
 
 > **Domain adaptation without forgetting — smarter, faster, and with fewer trainable parameters!** 🌟
 
